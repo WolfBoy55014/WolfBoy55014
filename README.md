@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WolfBoy55014
-- 👀 I’m interested in minecraft datapacking, and raspberry pis
-- 🌱 I’m currently learning rust and C++ for a PineTime
-- 💞️ I’m looking to collaborate on PineTime development
+- 👀 I’m interested in minecraft datapacking (and modding!), and raspberry pis
+- 🌱 I’m currently learning Minecraft modding
+- 💞️ I’m looking to collaborate on Fabric Modding
 - 📫 How to reach me Email: bikerduck7@gmail.com
 
 <!---
