@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @WolfBoy55014
-- 👀 I’m interested in minecraft datapacking (and modding!), and raspberry pis
-- 🌱 I’m currently learning Minecraft modding
-- 💞️ I’m looking to collaborate on Fabric Modding
+- Hi, I’m @WolfBoy55014
+- I’m working on minecraft datapacking (and modding!), and raspberry pis
+- I’m looking for useful stuff on Fabric Modding
 - 📫 How to reach me Email: bikerduck7@gmail.com
 
 <!---
