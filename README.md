@@ -1,6 +1,6 @@
 - Hi, I’m @WolfBoy55014
-- I’m working on minecraft datapacking (and modding!), and raspberry pis
-- I’m looking for useful stuff on Fabric Modding //LIKE HOW TO MAKE A CUSTOM CRAFTING TABLE!!!
+I am currently working on making a realtime language interpreting ML model called TurAI. I have also had SOME experience with Fabric Modding.
+I am currently learning Java.
 - 📫 How to reach me Email: bikerduck7@gmail.com
 
 <!---
