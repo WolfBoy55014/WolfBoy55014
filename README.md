@@ -1,6 +1,5 @@
 - Hi, I’m @WolfBoy55014
-I am currently working on making a realtime language interpreting ML model called TurAI. I have also had SOME experience with Fabric Modding.
-I am currently learning Java.
+I am learning Neural Networking and looking to upgrade TurAI. Im looking back into modding and am a novince in web design
 - 📫 How to reach me Email: bikerduck7@gmail.com
 
 <!---
